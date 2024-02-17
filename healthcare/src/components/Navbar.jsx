@@ -6,6 +6,7 @@ const Navbar = () => {
       className="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block"
       data-navbar-on-scroll="data-navbar-on-scroll"
     >
+        
       <div className="container">
         <a className="navbar-brand" href="index.html">
           <img src="#" width="118" alt="logo" />
